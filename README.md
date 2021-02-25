@@ -23,5 +23,3 @@ This library is used for learning about neural networks. Reading material is fro
 
 ## Pt. 5: Hyperparameter Experimentation
 - The experiments and their results can be found [here](hyperparams_exp.pdf).
-
-**Acknowledgements** 

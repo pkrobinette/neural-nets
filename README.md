@@ -22,6 +22,6 @@ This library is used for learning about neural networks. Reading material is fro
 ![ROC Curve](src/ROC/ROC_8.png)
 
 ## Pt. 5: Hyperparameter Experimentation
-- The experiments and their results can be found [here]().
+- The experiments and their results can be found [here](hyperparam_exp.pdf).
 
 **Acknowledgements** 

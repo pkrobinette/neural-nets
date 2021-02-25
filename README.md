@@ -5,7 +5,7 @@ This library is used for learning about neural networks. Reading material is fro
 ## Pt. 2: Implement Neural Network
 ## Pt. 3a: Confusion Matrix
 - Code for the confusion matrix can be found [here](/src/network.py) in the `evalution` function.
-- ![Confusion Matrix]
+- ![Confusion Matrix](/src/confusion_matrix/confusin_matrix.png)
 ## Pt. 3b: Visualize Incorrect Predictions
 - Code to visualize incorrect predictions can be found [here](src/network.py) in the `transform_digit` function.
 ## Pt. 3c: Save and Load Models

@@ -1,0 +1,42 @@
+Epoch 0 complete
+Epoch 1 complete
+Epoch 2 complete
+Epoch 3 complete
+Epoch 4 complete
+Epoch 5 complete
+Epoch 6 complete
+Epoch 7 complete
+Epoch 8 complete
+Epoch 9 complete
+Epoch 10 complete
+Epoch 11 complete
+Epoch 12 complete
+Epoch 13 complete
+Epoch 14 complete
+Epoch 15 complete
+Epoch 16 complete
+Epoch 17 complete
+Epoch 18 complete
+Epoch 19 complete
+Epoch 20 complete
+Epoch 21 complete
+Epoch 22 complete
+Epoch 23 complete
+Epoch 24 complete
+Epoch 25 complete
+Epoch 26 complete
+Epoch 27 complete
+Epoch 28 complete
+Epoch 29 complete
+0.5_eta: 0.94
+[[   0    0    1    2    3    4    5    6    7    8    9]
+ [   0  957    0    6    5    1    7   14    2   10    8]
+ [   1    0 1113    2    0    0    1    3    9    6    6]
+ [   2    1    3  966   18    3    6    5   19    9    2]
+ [   3    2    2   11  925    1   19    0    9   17   13]
+ [   4    5    0    9    2  934    5    8    7    9   25]
+ [   5    4    3    6   22    0  819   14    2   20    7]
+ [   6    8    3   10    3    8   13  911    1    9    1]
+ [   7    1    3   10   14    2    1    1  965    8   12]
+ [   8    2    8   10   18    4   17    2    0  884    9]
+ [   9    0    0    2    3   29    4    0   14    2  926]]

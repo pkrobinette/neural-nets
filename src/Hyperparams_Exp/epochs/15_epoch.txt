@@ -1,0 +1,27 @@
+Epoch 0 complete
+Epoch 1 complete
+Epoch 2 complete
+Epoch 3 complete
+Epoch 4 complete
+Epoch 5 complete
+Epoch 6 complete
+Epoch 7 complete
+Epoch 8 complete
+Epoch 9 complete
+Epoch 10 complete
+Epoch 11 complete
+Epoch 12 complete
+Epoch 13 complete
+Epoch 14 complete
+15_epoch: 0.8583
+[[   0    0    1    2    3    4    5    6    7    8    9]
+ [   0  962    0   13   21    2   11   13    4    8    8]
+ [   1    0 1111    3  113    1    2    3    6    0    4]
+ [   2    1    6  972  277    5    3    2   18    7    5]
+ [   3    0    0    0   10    0    0    0    0    0    0]
+ [   4    0    0    6   64  936    2    2    2    9   19]
+ [   5    2    0    4  312    0  843   10    2   19   15]
+ [   6    8    2   11    3    8   10  924    2    6    1]
+ [   7    2    4   12   41    2    6    0  979   14   13]
+ [   8    4   12   11  123    4   10    4    3  907    5]
+ [   9    1    0    0   46   24    5    0   12    4  939]]

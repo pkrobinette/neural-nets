@@ -8,10 +8,12 @@ This library is used for learning about neural networks. Reading material is fro
 - ![Confusion Matrix](/src/confusion_matrix/confusin_matrix.png)
 ## Pt. 3b: Visualize Incorrect Predictions
 - Code to visualize incorrect predictions can be found [here](src/network.py) in the `transform_digit` function.
-- ![Mislabeled Number](/src/mislabeled_nums/actual_9/predict_4.png)
+- For example, this number is a 9 but was predicted as a 7:
+
+![Mislabeled Number](/src/mislabeled_nums/actual_9/predict_7.png)
+
 ## Pt. 3c: Save and Load Models
 - Code to save and load pretrained models can be found [here](src/network.py) in the `save_network` and `load_network` functions.
-
-![Decision Tree Confusion Matrix]()
+- The `/src/pretrained_models` folder contains some pretrained models used during this project.
 
 **Acknowledgements** 
